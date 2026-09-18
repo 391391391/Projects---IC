@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& C:\\\\dev\\\\bp-venv\\\\Scripts\\\\python.exe \"C:\\\\Users\\\\Aditya\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Aditya-OneDrive---Preferred-Square-Analytics-Pvt-Ltd-Documents-Projects---IC\\\\578780e1-7331-4581-9abc-5665458b3f92\\\\scratchpad\\\\probe_edgar.py\")"
+    ]
+  }
+}
